@@ -1,2 +1,2 @@
-Verklegt-n-mskei-1-H-pur-10
+Verklegt-namskeid 1, Hopur 10
 ===========================
