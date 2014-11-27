@@ -11,6 +11,7 @@ Miðlayer:
 - Birta
 - Bæta við/eyða
 - Skrifa
+- Lesa
 - Leita
 - Sortera
 
@@ -20,7 +21,7 @@ UI:
   - Birta
   - Bæta við/eyða
   - Leita
-  - Sort
+  - Sortera
 
 -Úttak
   - Birta
