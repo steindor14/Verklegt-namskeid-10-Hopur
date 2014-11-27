@@ -15,11 +15,13 @@ Miðlayer:
 - Sortera
 
 UI:
+
 -Inntak
   - Birta
   - Bæta við/eyða
   - Leita
   - Sort
+
 -Úttak
   - Birta
   - Villuskilaboð ef bæta við/eyða failar
